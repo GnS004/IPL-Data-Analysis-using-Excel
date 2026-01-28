@@ -31,6 +31,9 @@ Data suggests that decision-making at the toss significantly influences match ou
 * **Runner Up:** Chennai Super Kings.
 * **Standout Performer:** Shane Watson was named **Player of the Series** for the 2008 season.
 
+<p align="center">
+  <img src="https://github.com/GnS004/IPL-Data-Analysis-using-Excel/blob/main/Dashboard/Dashboard%202008.jpeg" alt="IPL Analysis Dashboard" width="900">
+</p>
 ---
 
 ### 🛠️ Technical Skills Implemented
