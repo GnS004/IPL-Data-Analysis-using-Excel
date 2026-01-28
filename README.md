@@ -34,6 +34,7 @@ Data suggests that decision-making at the toss significantly influences match ou
 <p align="center">
   <img src="https://github.com/GnS004/IPL-Data-Analysis-using-Excel/blob/main/Dashboard/Dashboard%202008.jpeg" alt="IPL Analysis Dashboard" width="900">
 </p>
+
 ---
 
 ### 🛠️ Technical Skills Implemented
